@@ -19,3 +19,5 @@ Slackに投稿
 ##環境(予定)
 ・Heroku  
 ・Botkit  
+
+##その他
