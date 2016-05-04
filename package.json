@@ -1,0 +1,15 @@
+{
+  "name": "retbot",
+  "version": "1.0.0",
+  "description": "redmine url bot",
+  "main": "index.js",
+  "dependencies": {
+    "botkit": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
