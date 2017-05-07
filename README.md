@@ -1,9 +1,9 @@
 # RedmineAuthBot
 
-##なにをしたいのか
+## なにをしたいのか
 認証ありのRedmineチケットのURLをSlackで展開表示させたい。
 
-##どうやって実現するのか
+## どうやって実現するのか
 Hubotにやってもらう
 
 SlackにRedmineのチケット番号orURLが投稿される  
@@ -16,8 +16,8 @@ Slackに投稿
 
 これで、URLが展開してるっぽくなる。  
 
-##環境(予定)
-・Heroku  
-・Botkit  
+## 環境(予定)
+* Heroku  
+* Botkit  
 
-##その他
+## その他
